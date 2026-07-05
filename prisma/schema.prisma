@@ -1,0 +1,268 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+}
+
+enum ProductType {
+  MEDICINE
+  FARM_SUPPLY
+}
+
+enum PartyType {
+  CUSTOMER
+  SUPPLIER
+  BOTH
+}
+
+enum StockMovementType {
+  STOCK_IN
+  STOCK_OUT
+  RETURN
+  DAMAGED
+  ADJUSTMENT
+}
+
+enum LedgerEntryType {
+  CUSTOMER_BALANCE
+  SUPPLIER_BALANCE
+  DUE_PAYMENT
+}
+
+enum LedgerStatus {
+  PENDING
+  PAID
+  PARTIAL
+  OVERDUE
+}
+
+enum BackupStatus {
+  PENDING
+  COMPLETED
+  FAILED
+}
+
+enum InvoiceType {
+  PURCHASE
+  SALES
+}
+
+enum InvoicePaymentStatus {
+  PAID
+  PARTIAL
+  UNPAID
+}
+
+model User {
+  id          String       @id @default(uuid()) @db.Uuid
+  name        String?
+  email       String       @unique @db.VarChar(255)
+  passwordHash String       @db.VarChar(255)
+  permissions Json
+  isActive    Boolean      @default(true)
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+
+  stockMovements StockMovement[]
+  ledgerEntries  LedgerEntry[]
+  invoicesCreated Invoice[] @relation("InvoiceCreatedBy")
+  backupLogs     BackupLog[]
+
+  @@index([isActive])
+  @@index([email])
+}
+
+model Product {
+  id          String          @id @default(uuid()) @db.Uuid
+  code        String          @unique @db.VarChar(64)
+  name        String          @db.VarChar(255)
+  searchName   String          @db.VarChar(255)
+  type        ProductType
+  unit        String          @db.VarChar(64)
+  isActive    Boolean         @default(true)
+  createdAt   DateTime        @default(now())
+  updatedAt   DateTime        @updatedAt
+
+  batches      Batch[]
+  stockMovements StockMovement[]
+  invoiceLines InvoiceLine[]
+
+  @@index([searchName])
+  @@index([type])
+  @@index([isActive])
+}
+
+model Batch {
+  id            String          @id @default(uuid()) @db.Uuid
+  productId     String          @db.Uuid
+  batchNumber   String          @db.VarChar(128)
+  expiryDate    DateTime?
+  purchaseCost  Decimal?        @db.Decimal(18, 2)
+  openingQty    Decimal         @default(0) @db.Decimal(18, 3)
+  createdAt     DateTime        @default(now())
+  updatedAt     DateTime        @updatedAt
+
+  product        Product        @relation(fields: [productId], references: [id], onDelete: Restrict)
+  stockMovements StockMovement[]
+  invoiceLines   InvoiceLine[]
+
+  @@unique([productId, batchNumber])
+  @@index([productId])
+  @@index([expiryDate])
+}
+
+model Party {
+  id                 String          @id @default(uuid()) @db.Uuid
+  code               String          @unique @db.VarChar(32)
+  name               String          @db.VarChar(255)
+  nameEn             String?         @map("name_en") @db.VarChar(255)
+  searchName         String          @db.VarChar(255)
+  type               PartyType
+  mobile             String?         @db.VarChar(32)
+  phone              String?         @db.VarChar(32)
+  email              String?         @db.VarChar(255)
+  address            String?
+  city               String?         @db.VarChar(128)
+  taxNumber          String?         @map("tax_number") @db.VarChar(128)
+  commercialRegister  String?         @map("commercial_register") @db.VarChar(128)
+  isActive           Boolean         @map("is_active") @default(true)
+  notes              String?
+  openingBalance     Decimal         @default(0) @db.Decimal(18, 2)
+  createdAt          DateTime        @default(now()) @map("created_at")
+  updatedAt          DateTime        @updatedAt @map("updated_at")
+
+  stockMovements StockMovement[]
+  ledgerEntries   LedgerEntry[]
+  invoices        Invoice[]
+
+  @@map("parties")
+  @@unique([type, searchName])
+  @@index([searchName])
+  @@index([code])
+  @@index([type])
+  @@index([isActive])
+}
+
+model StockMovement {
+  id          String             @id @default(uuid()) @db.Uuid
+  productId   String             @db.Uuid
+  batchId     String?            @db.Uuid
+  partyId     String?            @db.Uuid
+  userId      String             @db.Uuid
+  type        StockMovementType
+  quantity    Decimal            @db.Decimal(18, 3)
+  reason      String?
+  reference   String?
+  movementAt  DateTime           @default(now())
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+
+  product Product @relation(fields: [productId], references: [id], onDelete: Restrict)
+  batch   Batch?  @relation(fields: [batchId], references: [id], onDelete: SetNull)
+  party   Party?  @relation(fields: [partyId], references: [id], onDelete: SetNull)
+  user    User    @relation(fields: [userId], references: [id], onDelete: Restrict)
+
+  @@index([productId])
+  @@index([batchId])
+  @@index([partyId])
+  @@index([userId])
+  @@index([type])
+  @@index([movementAt])
+}
+
+model LedgerEntry {
+  id          String         @id @default(uuid()) @db.Uuid
+  partyId     String         @db.Uuid
+  userId      String         @db.Uuid
+  type        LedgerEntryType
+  status      LedgerStatus   @default(PENDING)
+  amount      Decimal        @db.Decimal(18, 2)
+  dueDate     DateTime?
+  paidAt      DateTime?
+  notes       String?
+  createdAt   DateTime       @default(now())
+  updatedAt   DateTime       @updatedAt
+
+  party Party @relation(fields: [partyId], references: [id], onDelete: Restrict)
+  user  User  @relation(fields: [userId], references: [id], onDelete: Restrict)
+
+  @@index([partyId])
+  @@index([userId])
+  @@index([type])
+  @@index([status])
+  @@index([dueDate])
+}
+
+model BackupLog {
+  id          String        @id @default(uuid()) @db.Uuid
+  userId      String?       @db.Uuid
+  status      BackupStatus  @default(PENDING)
+  fileName    String        @db.VarChar(255)
+  fileSize    BigInt?
+  checksum    String?       @db.VarChar(128)
+  notes       String?
+  createdAt   DateTime      @default(now())
+  updatedAt   DateTime      @updatedAt
+
+  user User? @relation(fields: [userId], references: [id], onDelete: SetNull)
+
+  @@index([userId])
+  @@index([status])
+  @@index([createdAt])
+}
+
+model Invoice {
+  id              String                @id @default(uuid()) @db.Uuid
+  invoiceNumber   String                @unique @db.VarChar(32)
+  type            InvoiceType
+  partyId         String                @db.Uuid
+  createdById     String                @db.Uuid
+  paymentStatus   InvoicePaymentStatus  @default(UNPAID)
+  invoiceDate     DateTime              @default(now())
+  reference       String?
+  notes           String?
+  subtotal        Decimal               @default(0) @db.Decimal(18, 2)
+  discountTotal   Decimal               @default(0) @db.Decimal(18, 2)
+  taxTotal        Decimal               @default(0) @db.Decimal(18, 2)
+  grandTotal      Decimal               @default(0) @db.Decimal(18, 2)
+  paidAmount      Decimal               @default(0) @db.Decimal(18, 2)
+  remainingAmount Decimal               @default(0) @db.Decimal(18, 2)
+  createdAt       DateTime              @default(now())
+  updatedAt       DateTime              @updatedAt
+
+  party       Party   @relation(fields: [partyId], references: [id], onDelete: Restrict)
+  createdBy   User    @relation("InvoiceCreatedBy", fields: [createdById], references: [id], onDelete: Restrict)
+  lines       InvoiceLine[]
+
+  @@index([partyId])
+  @@index([createdById])
+  @@index([type])
+  @@index([paymentStatus])
+  @@index([invoiceDate])
+}
+
+model InvoiceLine {
+  id             String   @id @default(uuid()) @db.Uuid
+  invoiceId      String   @db.Uuid
+  productId      String   @db.Uuid
+  batchId        String?  @db.Uuid
+  expiryDate     DateTime?
+  unit           String   @db.VarChar(64)
+  quantity       Decimal  @db.Decimal(18, 3)
+  unitPrice      Decimal  @db.Decimal(18, 2)
+  discount       Decimal  @default(0) @db.Decimal(18, 2)
+  tax            Decimal  @default(0) @db.Decimal(18, 2)
+  lineTotal      Decimal  @db.Decimal(18, 2)
+  createdAt      DateTime @default(now())
+  updatedAt      DateTime @updatedAt
+
+  invoice   Invoice @relation(fields: [invoiceId], references: [id], onDelete: Cascade)
+  product   Product @relation(fields: [productId], references: [id], onDelete: Restrict)
+  batch     Batch?  @relation(fields: [batchId], references: [id], onDelete: SetNull)
+
+  @@index([invoiceId])
+  @@index([productId])
+  @@index([batchId])
+}

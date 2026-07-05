@@ -1,0 +1,1855 @@
+[
+  {
+    "domain": "dashboard",
+    "route": "/dashboard",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\dashboard\\_dashboard.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "لوحة التحكم · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "dashboard",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings."
+    ]
+  },
+  {
+    "domain": "dashboard",
+    "route": "/dashboard",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\dashboard\\_dashboard.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "لوحة التحكم · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "dashboard",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "dashboard",
+    "route": "/dashboard",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\dashboard\\_dashboard.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Dashboard · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "dashboard",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "dashboard",
+    "route": "/dashboard",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\dashboard\\_dashboard.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "لوحة التحكم · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "dashboard",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "products",
+    "route": "/products",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\products\\_products.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المنتجات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/new",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\products\\_products_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "إنشاء منتج · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/1/edit",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\products\\_products_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل المنتج · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "products",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "products",
+    "route": "/products",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\products\\_products.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المنتجات · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "products",
+    "route": "/products/new",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\products\\_products_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "إنشاء منتج · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "products",
+    "route": "/products/1/edit",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\products\\_products_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل المنتج · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "products",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "products",
+    "route": "/products",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\products\\_products.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Products · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/new",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\products\\_products_new.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Create Product · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/1/edit",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\products\\_products_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "Edit Product · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "products",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "products",
+    "route": "/products",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\products\\_products.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المنتجات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/new",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\products\\_products_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "إنشاء منتج · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "products",
+    "route": "/products/1/edit",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\products\\_products_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل المنتج · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "products",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "batches",
+    "route": "/batches",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\batches\\_batches.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الدفعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/new",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\batches\\_batches_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفعة جديدة · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/1/edit",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\batches\\_batches_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل الدفعة · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "batches",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "batches",
+    "route": "/batches",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\batches\\_batches.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الدفعات · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/new",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\batches\\_batches_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفعة جديدة · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/1/edit",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\batches\\_batches_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل الدفعة · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "batches",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "batches",
+    "route": "/batches",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\batches\\_batches.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Batches · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/new",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\batches\\_batches_new.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "New Batch · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/1/edit",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\batches\\_batches_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "Edit Batch · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "batches",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": [
+      "Minified React error #418; visit https://react.dev/errors/418?args[]=HTML&args[]= for the full message or use the non-minified dev environment for full errors and additional helpful warnings.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "batches",
+    "route": "/batches",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\batches\\_batches.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الدفعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/new",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\batches\\_batches_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفعة جديدة · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "batches",
+    "route": "/batches/1/edit",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\batches\\_batches_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "تعديل الدفعة · Pharmacy CRM",
+    "scheme": null
+  },
+  {
+    "domain": "batches",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "parties",
+    "route": "/parties",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\parties\\_parties.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الأطراف · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/new",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\parties\\_parties_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "طرف جديد · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\parties\\_parties_1.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1/edit",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\parties\\_parties_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+    ],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "parties",
+    "route": "/parties",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\parties\\_parties.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الأطراف · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/new",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\parties\\_parties_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "طرف جديد · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\parties\\_parties_1.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1/edit",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\parties\\_parties_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+    ],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "parties",
+    "route": "/parties",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\parties\\_parties.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Parties · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/new",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\parties\\_parties_new.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "New Party · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\parties\\_parties_1.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1/edit",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\parties\\_parties_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "capture": "en-light-desktop",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+    ],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "parties",
+    "route": "/parties",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\parties\\_parties.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الأطراف · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/new",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\parties\\_parties_new.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "طرف جديد · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\parties\\_parties_1.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "route": "/parties/1/edit",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\parties\\_parties_1_edit.png",
+    "lang": "",
+    "dir": "",
+    "overflow": false,
+    "title": "",
+    "scheme": null
+  },
+  {
+    "domain": "parties",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)",
+      "Failed to load resource: the server responded with a status of 500 (Internal Server Error)"
+    ],
+    "pageErrors": [
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error.",
+      "An error occurred in the Server Components render. The specific message is omitted in production builds to avoid leaking sensitive details. A digest property is included on this error instance which may provide additional details about the nature of the error."
+    ]
+  },
+  {
+    "domain": "stock",
+    "route": "/stock",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\stock\\_stock.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/in",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\stock\\_stock_in.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/out",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\stock\\_stock_out.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "stock",
+    "route": "/stock",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\stock\\_stock.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/in",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\stock\\_stock_in.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/out",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\stock\\_stock_out.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "stock",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "stock",
+    "route": "/stock",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\stock\\_stock.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Inventory · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/in",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\stock\\_stock_in.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Inventory · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/out",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\stock\\_stock_out.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Inventory · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "stock",
+    "route": "/stock",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\stock\\_stock.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/in",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\stock\\_stock_in.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "route": "/stock/out",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\stock\\_stock_out.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "stock",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "purchases",
+    "route": "/purchases",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\purchases\\_purchases.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير الشراء · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "purchases",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "purchases",
+    "route": "/purchases",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\purchases\\_purchases.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير الشراء · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "purchases",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "purchases",
+    "route": "/purchases",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\purchases\\_purchases.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Purchase Invoices · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "purchases",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "purchases",
+    "route": "/purchases",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\purchases\\_purchases.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير الشراء · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "purchases",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "sales",
+    "route": "/sales",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\sales\\_sales.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير البيع · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "sales",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "sales",
+    "route": "/sales",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\sales\\_sales.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير البيع · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "sales",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "sales",
+    "route": "/sales",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\sales\\_sales.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Sales Invoices · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "sales",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "sales",
+    "route": "/sales",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\sales\\_sales.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "فواتير البيع · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "sales",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "payments",
+    "route": "/payments",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\payments\\_payments.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المدفوعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "payments",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "payments",
+    "route": "/payments",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\payments\\_payments.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المدفوعات · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "payments",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "payments",
+    "route": "/payments",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\payments\\_payments.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Payments · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "payments",
+    "capture": "en-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: payments.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: payments.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "payments",
+    "route": "/payments",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\payments\\_payments.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المدفوعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "payments",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: payments.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at O (http://localhost:3005/_next/static/chunks/app/(dashboard)/payments/page-3d9689e795000037.js:1:9335)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "returns",
+    "route": "/returns",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\returns\\_returns.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المرتجعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "returns",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "returns",
+    "route": "/returns",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\returns\\_returns.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المرتجعات · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "returns",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "returns",
+    "route": "/returns",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\returns\\_returns.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Returns · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "returns",
+    "capture": "en-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: returns.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: returns.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "returns",
+    "route": "/returns",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\returns\\_returns.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المرتجعات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "returns",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)",
+      "c: MISSING_MESSAGE: returns.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at N (http://localhost:3005/_next/static/chunks/app/(dashboard)/returns/page-9e9d00e24ad8b63c.js:1:9312)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:82020)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110730\n    at iu (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:110831)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "inventory-movements",
+    "route": "/inventory/movements",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\inventory-movements\\_inventory_movements.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "حركات المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "inventory-movements",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "inventory-movements",
+    "route": "/inventory/movements",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\inventory-movements\\_inventory_movements.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "حركات المخزون · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "inventory-movements",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "inventory-movements",
+    "route": "/inventory/movements",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\inventory-movements\\_inventory_movements.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Inventory Movements · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "inventory-movements",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "inventory-movements",
+    "route": "/inventory/movements",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\inventory-movements\\_inventory_movements.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "حركات المخزون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "inventory-movements",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "ledger",
+    "route": "/ledger",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\ledger\\_ledger.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفتر الأستاذ · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "ledger",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "ledger",
+    "route": "/ledger",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\ledger\\_ledger.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفتر الأستاذ · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "ledger",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "ledger",
+    "route": "/ledger",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\ledger\\_ledger.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Ledger · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "ledger",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "ledger",
+    "route": "/ledger",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\ledger\\_ledger.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "دفتر الأستاذ · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "ledger",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "reports",
+    "route": "/reports",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\reports\\_reports.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "التقارير · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "reports",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "reports",
+    "route": "/reports",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\reports\\_reports.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "التقارير · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "reports",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "reports",
+    "route": "/reports",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\reports\\_reports.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Reports · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "reports",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "reports",
+    "route": "/reports",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\reports\\_reports.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "التقارير · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "reports",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "expiry-alerts",
+    "route": "/expiry-alerts",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\expiry-alerts\\_expiry-alerts.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تنبيهات الصلاحية · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "expiry-alerts",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "expiry-alerts",
+    "route": "/expiry-alerts",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\expiry-alerts\\_expiry-alerts.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تنبيهات الصلاحية · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "expiry-alerts",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "expiry-alerts",
+    "route": "/expiry-alerts",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\expiry-alerts\\_expiry-alerts.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Expiry Alerts · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "expiry-alerts",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "expiry-alerts",
+    "route": "/expiry-alerts",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\expiry-alerts\\_expiry-alerts.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تنبيهات الصلاحية · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "expiry-alerts",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "users",
+    "route": "/users",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\users\\_users.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المستخدمون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "users",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: users.permissionDashboard (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1588\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionProducts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1623\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1658\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1696\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchEdit (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1734\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchDelete (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1772\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionParties (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1808\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionPartiesExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1846\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1888\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1930\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1973\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2017\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStock (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2054\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionLedger (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2083\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionReports (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2114\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionExpiryAlerts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2151\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionUsers (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2186\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionSettings (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2217\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBackupExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2255\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.clearFilters (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:6350)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "users",
+    "route": "/users",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\users\\_users.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المستخدمون · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "users",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: users.permissionDashboard (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1588\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionProducts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1623\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1658\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1696\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchEdit (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1734\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchDelete (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1772\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionParties (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1808\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionPartiesExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1846\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1888\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1930\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1973\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2017\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStock (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2054\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionLedger (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2083\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionReports (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2114\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionExpiryAlerts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2151\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionUsers (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2186\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionSettings (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2217\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBackupExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2255\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.clearFilters (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:6350)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "users",
+    "route": "/users",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\users\\_users.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Users · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "users",
+    "capture": "en-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: users.permissionDashboard (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1588\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionProducts (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1623\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchView (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1658\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchCreate (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1696\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchEdit (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1734\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchDelete (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1772\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionParties (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1808\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionPartiesExport (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1846\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInView (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1888\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInCreate (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1930\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutView (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1973\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutCreate (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2017\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStock (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2054\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionLedger (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2083\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionReports (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2114\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionExpiryAlerts (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2151\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionUsers (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2186\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionSettings (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2217\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBackupExport (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2255\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.clearFilters (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:6350)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "users",
+    "route": "/users",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\users\\_users.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "المستخدمون · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "users",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: users.permissionDashboard (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1588\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionProducts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1623\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1658\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1696\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchEdit (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1734\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBatchDelete (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1772\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionParties (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1808\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionPartiesExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1846\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1888\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockInCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1930\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutView (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1973\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStockOutCreate (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2017\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionStock (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2054\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionLedger (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2083\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionReports (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2114\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionExpiryAlerts (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2151\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionUsers (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2186\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionSettings (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2217\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.permissionBackupExport (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:2255\n    at Object.useMemo (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:63511)\n    at t.useMemo (http://localhost:3005/_next/static/chunks/1255-b8cf77ab14370e57.js:1:94177)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:1571)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)",
+      "c: MISSING_MESSAGE: users.clearFilters (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at ee (http://localhost:3005/_next/static/chunks/app/(dashboard)/users/page-3d4d42c379715c07.js:1:6350)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "settings",
+    "route": "/settings",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\settings\\_settings.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز الإعدادات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "settings",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "settings",
+    "route": "/settings",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\settings\\_settings.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز الإعدادات · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "settings",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "settings",
+    "route": "/settings",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\settings\\_settings.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Settings Center · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "settings",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "settings",
+    "route": "/settings",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\settings\\_settings.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز الإعدادات · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "settings",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "backup",
+    "route": "/backup",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\backup\\_backup.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز النسخ الاحتياطي · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "backup",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:5248)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)",
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:6006)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "backup",
+    "route": "/backup",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\backup\\_backup.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز النسخ الاحتياطي · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "backup",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:5248)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)",
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:6006)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "backup",
+    "route": "/backup",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\backup\\_backup.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Backup Center · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "backup",
+    "capture": "en-light-desktop",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: backup.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:5248)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)",
+      "c: MISSING_MESSAGE: backup.cancel (en)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:6006)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "backup",
+    "route": "/backup",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\backup\\_backup.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "مركز النسخ الاحتياطي · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "backup",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:5248)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)",
+      "c: MISSING_MESSAGE: backup.cancel (ar)\n    at p (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5673)\n    at m (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:5860)\n    at d (http://localhost:3005/_next/static/chunks/3365-e0edfd06865b0247.js:3:6340)\n    at C (http://localhost:3005/_next/static/chunks/app/(dashboard)/backup/page-dbc4d58e1f5842bf.js:1:6006)\n    at l9 (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:51130)\n    at o_ (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:70990)\n    at oq (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:81091)\n    at ik (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114682)\n    at http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114527\n    at ib (http://localhost:3005/_next/static/chunks/4bd1b696-100b9d70ed4e49c1.js:1:114535)"
+    ],
+    "pageErrors": []
+  },
+  {
+    "domain": "maintenance",
+    "route": "/maintenance",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\maintenance\\_maintenance.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الصيانة · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "maintenance",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "maintenance",
+    "route": "/maintenance",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\maintenance\\_maintenance.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الصيانة · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "maintenance",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "maintenance",
+    "route": "/maintenance",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\maintenance\\_maintenance.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Maintenance · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "maintenance",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "maintenance",
+    "route": "/maintenance",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\maintenance\\_maintenance.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "الصيانة · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "maintenance",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "login",
+    "route": "/login",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\login\\_login.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "login",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "login",
+    "route": "/login",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\login\\_login.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "login",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "login",
+    "route": "/login",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\login\\_login.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Login · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "login",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "login",
+    "route": "/login",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\login\\_login.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "login",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "root",
+    "route": "/",
+    "capture": "ar-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-desktop\\root\\root.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "root",
+    "capture": "ar-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "root",
+    "route": "/",
+    "capture": "ar-dark-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-dark-desktop\\root\\root.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "dark"
+  },
+  {
+    "domain": "root",
+    "capture": "ar-dark-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "root",
+    "route": "/",
+    "capture": "en-light-desktop",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\en-light-desktop\\root\\root.png",
+    "lang": "en",
+    "dir": "ltr",
+    "overflow": false,
+    "title": "Login · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "root",
+    "capture": "en-light-desktop",
+    "consoleErrors": [],
+    "pageErrors": []
+  },
+  {
+    "domain": "root",
+    "route": "/",
+    "capture": "ar-light-mobile",
+    "file": "D:\\Projects\\CRM_Sys\\docs\\03_DESIGN\\UI_UX\\final-qa-screenshots\\ar-light-mobile\\root\\root.png",
+    "lang": "ar",
+    "dir": "rtl",
+    "overflow": false,
+    "title": "تسجيل الدخول · Pharmacy CRM",
+    "scheme": "light"
+  },
+  {
+    "domain": "root",
+    "capture": "ar-light-mobile",
+    "consoleErrors": [],
+    "pageErrors": []
+  }
+]

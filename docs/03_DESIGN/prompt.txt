@@ -1,0 +1,473 @@
+You are a Senior Frontend Architect, Senior UX Architect and Design System Engineer.
+
+Your mission is NOT to redesign one page.
+
+Your mission is to redesign the entire frontend architecture of the Pharmacy CRM.
+
+The attached design boards represent the design direction and visual language.
+
+Treat them as the design blueprint for the whole application.
+
+========================================================
+
+GOAL
+
+========================================================
+
+Transform the application into a modern operational SaaS platform.
+
+The system should feel closer to
+
+Linear
+
+Stripe Dashboard
+
+Notion
+
+Vercel
+
+Raycast
+
+Odoo
+
+instead of a traditional CRUD application.
+
+Do NOT simply improve pages.
+
+Redesign the entire frontend architecture.
+
+========================================================
+
+DO NOT START CODING
+
+========================================================
+
+Before writing any code:
+
+Audit every page.
+
+Compare every screen with the attached design.
+
+Find inconsistencies.
+
+Create an internal implementation plan.
+
+Only then start implementation.
+
+========================================================
+
+REDESIGN THE SYSTEM
+
+========================================================
+
+Do not redesign page-by-page.
+
+Redesign the whole experience.
+
+Every page must share the same design language.
+
+Every page must feel like part of one product.
+
+========================================================
+
+DESIGN SYSTEM
+
+========================================================
+
+Create one unified design system.
+
+Standardize
+
+Typography
+
+Spacing
+
+Grid
+
+Buttons
+
+Inputs
+
+Dropdowns
+
+Tables
+
+Cards
+
+Dialogs
+
+Drawers
+
+Badges
+
+Status colors
+
+Icons
+
+Loading states
+
+Empty states
+
+Error states
+
+Confirmation dialogs
+
+Everything must be reusable.
+
+No duplicated components.
+
+========================================================
+
+PAGE TEMPLATE
+
+========================================================
+
+Every page should follow one layout.
+
+Page Header
+
+↓
+
+Toolbar
+
+↓
+
+Primary Workspace
+
+↓
+
+Secondary Information
+
+↓
+
+Footer
+
+No page should invent its own layout.
+
+========================================================
+
+PAGE TYPES
+
+========================================================
+
+Instead of CRUD pages...
+
+Use Workspaces.
+
+Examples
+
+Dashboard Workspace
+
+Inventory Workspace
+
+Purchase Workspace
+
+Sales Workspace
+
+Ledger Workspace
+
+Reports Workspace
+
+Settings Workspace
+
+Party Workspace
+
+User Workspace
+
+Each workspace is optimized around completing work quickly.
+
+========================================================
+
+REMOVE
+
+========================================================
+
+Remove
+
+Huge empty spaces
+
+Oversized headers
+
+Large hero sections
+
+Duplicate actions
+
+Repeated filters
+
+Unnecessary cards
+
+Decorative UI
+
+Fake components
+
+Unused search bars
+
+Non-functional notifications
+
+Redundant breadcrumbs
+
+If a component has no business value...
+
+Remove it.
+
+========================================================
+
+SEARCH
+
+========================================================
+
+Replace the current search with one Universal Command Palette.
+
+Shortcut
+
+Ctrl + K
+
+Search across
+
+Products
+
+Batches
+
+Parties
+
+Invoices
+
+Reports
+
+Users
+
+Pages
+
+Commands
+
+Examples
+
+"paracetamol"
+
+"invoice 1035"
+
+"mustafa"
+
+"stock out"
+
+"new purchase"
+
+========================================================
+
+NOTIFICATIONS
+
+========================================================
+
+Replace fake notifications with Business Alerts.
+
+Examples
+
+Low Stock
+
+Expiry Alerts
+
+Supplier Payments Due
+
+Customer Overdue
+
+Backup Failed
+
+System Updates
+
+Every notification should navigate to the related screen.
+
+========================================================
+
+TABLES
+
+========================================================
+
+All tables should use one reusable table component.
+
+Support
+
+Search
+
+Sort
+
+Filters
+
+Column resize
+
+Sticky header
+
+Pagination
+
+Export
+
+Print
+
+Keyboard navigation
+
+Dense mode
+
+Responsive mode
+
+========================================================
+
+FORMS
+
+========================================================
+
+Every form should use one reusable architecture.
+
+Desktop
+
+Drawer
+
+Large Form
+
+Modal
+
+depending on workflow.
+
+Mobile
+
+Full-screen form.
+
+Never tiny dialogs.
+
+========================================================
+
+RESPONSIVE
+
+========================================================
+
+Desktop
+
+1280+
+
+Laptop
+
+1024+
+
+Tablet
+
+768+
+
+Mobile
+
+Below 768
+
+Never shrink desktop.
+
+Rebuild layouts.
+
+Sidebar
+
+Desktop
+
+Permanent
+
+Tablet
+
+Collapsed
+
+Mobile
+
+Overlay Drawer
+
+Content must always occupy full width.
+
+========================================================
+
+WORKFLOW FIRST
+
+========================================================
+
+Optimize every page for its primary task.
+
+Inventory
+
+Fast movement entry
+
+Purchases
+
+Fast invoice creation
+
+Sales
+
+Fast invoice creation
+
+Ledger
+
+Fast review
+
+Reports
+
+Fast analysis
+
+Settings
+
+Fast configuration
+
+Avoid making every page look identical.
+
+Optimize around user workflow.
+
+========================================================
+
+PERFORMANCE
+
+========================================================
+
+Use lazy loading.
+
+Virtualized tables.
+
+Shared components.
+
+Memoization where useful.
+
+Fast rendering.
+
+Minimal re-renders.
+
+========================================================
+
+MICRO INTERACTIONS
+
+========================================================
+
+Hover
+
+Focus
+
+Loading
+
+Success
+
+Validation
+
+Drawer animations
+
+Page transitions
+
+Button feedback
+
+Everything should feel premium.
+
+========================================================
+
+FINAL ACCEPTANCE
+
+========================================================
+
+The redesign is complete only when
+
+The entire application feels like one product.
+
+No page looks different from another.
+
+Every component comes from the same design system.
+
+Users perform daily operations with fewer clicks.
+
+The interface is clean, modern, minimal, responsive and production-ready.
+
+The frontend should look like a premium SaaS application released in 2026 rather than a traditional internal ERP.
