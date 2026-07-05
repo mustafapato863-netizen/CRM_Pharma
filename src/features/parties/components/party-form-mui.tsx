@@ -18,9 +18,8 @@ import {
   TextField,
   Typography,
 } from "@mui/material";
-import { partySchema } from "../schemas/party.schema";
+import { partySchema, partyTypes } from "../schemas/party.schema";
 import type { PartyFormValues } from "../types";
-import { PartyType } from "@prisma/client";
 import { useTranslations } from "next-intl";
 
 export function PartyFormMUI({
@@ -101,13 +100,13 @@ export function PartyFormMUI({
                     helperText={errors.type?.message}
                     {...register("type")}
                   >
-                    <MenuItem value={PartyType.CUSTOMER}>
+                    <MenuItem value={partyTypes[0]}>
                       {t("customer")}
                     </MenuItem>
-                    <MenuItem value={PartyType.SUPPLIER}>
+                    <MenuItem value={partyTypes[1]}>
                       {t("supplier")}
                     </MenuItem>
-                    <MenuItem value={PartyType.BOTH}>{t("both")}</MenuItem>
+                    <MenuItem value={partyTypes[2]}>{t("both")}</MenuItem>
                   </TextField>
                 </Grid>
                 <Grid size={{ xs: 12, md: 6 }}>

@@ -1,11 +1,13 @@
 import { z } from "zod";
-import { PartyType } from "@prisma/client";
+
+export const partyTypes = ["CUSTOMER", "SUPPLIER", "BOTH"] as const;
+export type PartyType = (typeof partyTypes)[number];
 
 export const partySchema = z.object({
   code: z.string().optional().default(""),
   name: z.string().min(1, "Arabic name is required."),
   nameEn: z.string().optional().default(""),
-  type: z.nativeEnum(PartyType, { message: "Select a valid party type." }),
+  type: z.enum(partyTypes, { message: "Select a valid party type." }),
   mobile: z.string().optional().default(""),
   phone: z.string().optional().default(""),
   email: z
